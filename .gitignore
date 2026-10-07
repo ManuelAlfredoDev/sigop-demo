@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.local
+.venv/
+venv/
+build/
+dist/
+logs/
+backups/
+uploads/
+*.log
+*.db
+*.sqlite
+*.csv
+*.xlsx
